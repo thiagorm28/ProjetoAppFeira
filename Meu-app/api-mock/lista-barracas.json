@@ -1,0 +1,25 @@
+[
+    {
+        "numero": 1,
+        "produtor": "José da Silva",
+        "produtos_disponiveis": ["Laranja", "Mixirica", "Limão"],
+        "produtos_recorrentes": ["Laranja", "Mixirica", "Limão, Café, Leite, Queijo Frescal, "],
+        "nome_feira": "Feira do Produtor"
+    },
+
+    {
+        "numero": 2,
+        "produtor": "Maria Antonieta Pêra",
+        "produtos_disponiveis": ["Mel", "Alface", "Couve", "Agrião"],
+        "produtos_recorrentes": ["Mel", "Alface", "Couve", "Agrião, Couve, Brocoli, Couve-Flor, Rabanete, Cenoura"],
+        "nome_feira": "Feira do Produtor"
+    },
+
+    {
+        "numero": 3,
+        "produtor": "Antônio Lopes",
+        "produtos_disponiveis": ["Laranja", "Mixirica", "Limão"],
+        "produtos_recorrentes": ["Laranja", "Mixirica", "Limão, Mamão, Banana, Mandioca"],
+        "nome_feira": "Feira do Produtor"
+    }
+]

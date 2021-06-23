@@ -1,0 +1,15 @@
+[
+    {
+        "nome_feira": "Feira da Lua",
+        "status_feira": "Aberta",
+        "dias_funcionamento": ["Quarta-feira", "Sábado"],
+        "localizacao": "Praça do Cemitério"
+    },
+
+    {
+        "nome_feira": "Feira do Produtor",
+        "status_feira": "Fechada",
+        "dias_funcionamento": ["Sábado"],
+        "localizacao": "Espaço da Feira da Cidade"
+    }
+]
